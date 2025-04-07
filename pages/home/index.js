@@ -265,9 +265,9 @@ export default function Home() {
             className={cn(s.cta, introOut && s.in)}
             arrow
             icon={<GitHub />}
-            href="https://github.com/arnav-jhajharia/"
+            href="https://github.com/KrishnaBajaj1506/"
           >
-            Check it out on github
+          Check out my github
           </Button>
         </div>
       </section>
